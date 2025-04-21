@@ -1,0 +1,10 @@
+value = 3.45
+puts (value+=3)
+puts(value.round)
+puts(value.floor)
+puts(value.next_float)
+puts(value.prev_float)
+puts(value.to_s)
+puts(value.to_i)
+puts(value.ceil)
+puts(value.truncate)

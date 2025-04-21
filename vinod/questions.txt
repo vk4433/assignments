@@ -1,0 +1,24 @@
+Krishna Veni
+12:14 PM
+20. Write a Ruby code to read a file and print the lines in the file.
+Expected Output:
+ Reading the file
+ One
+ Two
+ Three
+ Four
+ Five
+21. Write a Ruby program to find if the given input is an even or odd number using the mixin concept.
+Expected Output:
+22
+ This is an even number
+ 33
+ This is an odd number
+Krishna Veni
+12:20 PM
+Take a array of numbers from a range ( (n = 1..10.to_a))
+     Write a proc that checks if a number from the array is even.
+
+
+     Write a lambda that checks if a number frpm the array is odd.
+Freshers Training - 2
